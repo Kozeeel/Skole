@@ -11,8 +11,8 @@ public class Light
         this.room = room;
     }
 
-    public string toggle()
-    {
+    //public string toggle()
+    //{
         
-    }
+    //}
 }
